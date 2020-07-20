@@ -15,7 +15,7 @@ To learn more about Next.js, take a look at the following resources:
 - [b-the-spirit.crypto](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) - send eth to b-the-spirit.crypto or bspirit.eth for contributions.
 - [Handshake](https://handshake.org) - Handshake project.
 
-You can email me at [BeSpirit247@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
+You can email me at [bthespirit@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
