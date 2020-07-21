@@ -17,26 +17,26 @@ const Home = () => (
       </p>
 
       <div className="grid">
-        <a href="https://nextjs.org/docs" className="card">
+        <a href="https://bmindful.vercel.app" className="card">
           <h3>Documentation &rarr;</h3>
           <p>Create Your Handshake domain.</p>
         </a>
 
-        <a href="https://nextjs.org/learn" className="card">
+        <a href="https://bhandshake.vercel.app" className="card">
           <h3>Learn &rarr;</h3>
-          <p>Learn how to code your web page!</p>
+          <p>Learn how to code your web page or pay me too!</p>
         </a>
 
         <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
+          href="https://beechains.github.io/lux299/"
           className="card"
         >
           <h3>Examples &rarr;</h3>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <p>Discover and deploy.</p>
         </a>
 
         <a
-          href="https://vercel.com/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://beechains.github.io/bhackme"
           className="card"
         >
           <h3>Deploy &rarr;</h3>
