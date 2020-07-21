@@ -1,4 +1,4 @@
-This is Now [Bcrypto8 Domain](https:bcrypto8.vercel.app), also [AncientManuscripts](https://my-ancientmanuscripts.vercel.app), these are blockchain domain project creations using [Handshake](https://handshake.org) and [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+This is Now [Bcrypto8 Domain](https://bcrypto8.vercel.app/), also [AncientManuscripts](https://my-ancientmanuscripts.vercel.app), these are blockchain domain project creations using [Handshake](https://handshake.org) and [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started lots of editing to come!
 
