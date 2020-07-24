@@ -1,5 +1,6 @@
 This is Now [Bcrypto8 Domain](https://bcrypto8.vercel.app/), also [AncientManuscripts](https://my-ancientmanuscripts.vercel.app), these are blockchain domain project creations using [Handshake](https://handshake.org) and [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
+DuckDuckGo
 <form method="get" id="ddgSearch" action="https://duckduckgo.com/">
     <input type="hidden" name="sites" value=""/>
     <input type="hidden" name="k7" value="#ffffff"/>
