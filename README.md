@@ -19,8 +19,6 @@ First.
 
 Open and jam with [bthespirit](https://bthespirit.bandcamp.com/) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
 ## Learn More take a look at the following resources:
 
 - [b-the-spirit.crypto](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) - send eth to b-the-spirit.crypto or bspirit.eth for contributions.
