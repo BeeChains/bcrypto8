@@ -17,12 +17,16 @@ DuckDuckGo
 
 First.
 
-Open and jam with [bthespirit](https://bthespirit.bandcamp.com/) with your browser to see the result.
+Jam with [bthespirit](https://bthespirit.bandcamp.com/).
 
 ## Learn More take a look at the following resources:
 
-- [b-the-spirit.crypto](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) - send eth to b-the-spirit.crypto or bspirit.eth for contributions.
-- [Handshake](https://handshake.org) project.
+- [b-the-spirit.crypto](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) 
+
+- send ETH to b-the-spirit.crypto or bspirit.eth for contributions.
+
+- [Handshake](https://handshake.org) project. send HNS to hs1qx55d7k9v09uetfeasd6hxqwl3jfzut9lsm4kdt
+
 
 You can email me at [bthespirit777@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
 
