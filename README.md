@@ -1,4 +1,7 @@
-This is Now [Bcrypto8 Domain](https://bcrypto8.vercel.app/), also [AncientManuscripts](https://my-ancientmanuscripts.vercel.app), these are blockchain domain project creations using [Handshake](https://handshake.org).
+# home.bcrypto8/ 
+| [HNS-DOMAINS/](https://home.hns-domains.hns.is/) | Tweet [@HNSDOMAINS](https://twitter.com/HNSDOMAINS) | [linktree.hnsroot](http://linktree.hnsroot.hns.is/)
+<div>
+This is Now [Bcrypto8 Domain](https://bcrypto8.vercel.app/), also [AncientManuscripts](https://my-ancientmanuscripts.vercel.app), these are blockchain domain project creations using [Handshake](https://handshake.org) Domains.
 
 DuckDuckGo
 <form method="get" id="ddgSearch" action="https://duckduckgo.com/">
@@ -28,5 +31,5 @@ Jam with [bthespirit](https://bthespirit.bandcamp.com/).
 - [Handshake](https://handshake.org) project. send HNS to hs1qx55d7k9v09uetfeasd6hxqwl3jfzut9lsm4kdt
 
 
-You can email me at [bthespirit777@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
+You can email me at [bthespirit777@proton.me](mailto://bthespirit777@proton.me) - your feedback and contributions are welcome!
 
